@@ -1,7 +1,6 @@
 {
-  "engines":{
-    "node":"22.14.0"
-
+  "engines": {
+    "node": "22.14.0"
   },
   "name": "airbnb",
   "version": "1.0.0",
@@ -16,7 +15,7 @@
   "dependencies": {
     "@maptiler/client": "^2.3.2",
     "@maptiler/sdk": "^3.3.0",
-    "cloudinary": "^2.6.1",
+    "cloudinary": "^1.30.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^5.1.0",
     "dotenv": "^16.5.0",
